@@ -40,4 +40,4 @@ I developed a comprehensive project in Excel using public datasets from Kaggle a
 
 
 ## Final Conclusion
-Untuk mengembangkan performa pembeli 
+Overall, e-commerce performance shows strong results, with good engagement, relevant traffic quality, and conversion rates that exceed industry standards. The sales funnel is effective, although there is a bottleneck at the Product to Cart stage that can be improved through product page optimization and additional promotional strategies. Google is the main driver of traffic, while social media needs to be strengthened to increase its contribution. Users from various devices can access the platform well, and the international market, especially France, is the largest contributor to purchases, which can be a priority focus for future strategies. In addition, the peak of purchases occurs in March, so this period can be used as momentum for a major promotional campaign in the following year.
