@@ -2,3 +2,4 @@
 ## Project Objective 
 I developed a comprehensive project in Excel using public datasets from Kaggle about customer journey , creating several dashboards and tables to analyze the data. This process involved several stages, including data pre-processing, data cleaning, and data visualization.
 ## Dataset
+- <a href="https://github.com/viviannabila/Data-Analysis-Ecommerce-Journey-Dashboard/blob/main/Customer%20journey%20Final%20with%20Dashboard.xlsx">E-commerce journey Dataset</a>
