@@ -28,3 +28,16 @@ I developed a comprehensive project in Excel using public datasets from Kaggle a
 
 ## Dashboard
 <img width="974" height="739" alt="E-commerce Performence Dashboard" src="https://github.com/user-attachments/assets/ad970676-e73f-4775-9f2e-22ffbb2cd769" />
+
+## Project Insight 
+- There were a total of 5,000 sessions with 1,872 unique users and an average time spent on the page of 97.43 seconds.  
+- A total of 1,010 sessions resulted in purchases, generating a conversion rate of 20%.
+- The biggest drop in the funnel occurred at the Product to Cart stage.
+- Google was the largest source of traffic, followed by email, direct, and social media. 
+- Device distribution was evenly spread between desktop, mobile, and tablet.
+- The country with the most purchases by device type was France, with a total of 635 purchases.
+- The largest monthly purchasing trend occurred in March.
+
+
+## Final Conclusion
+Untuk mengembangkan performa pembeli 
