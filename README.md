@@ -18,4 +18,13 @@ I developed a comprehensive project in Excel using public datasets from Kaggle a
 - What is the distribution of visits based on device?
 - How have purchases developed from month to month?
 
-- Dashboard interaction <
+- Dashboard interaction <a href="https://github.com/viviannabila/Data-Analysis-Ecommerce-Journey-Dashboard/blob/main/E-commerce%20Performence%20Dashboard.png">View Dashboard</a>
+
+## Process
+- Verify data for my missing values and anomalies, and sort out the same
+- Made sure data is consistant and clean with respect to data type, data fromat, and values used.
+- created pivot tables according to the qustions asked.
+- Marge all pivot tables into one dashboard and apply slicer to make a dynamic.
+
+## Dashboard
+<img width="974" height="739" alt="E-commerce Performence Dashboard" src="https://github.com/user-attachments/assets/ad970676-e73f-4775-9f2e-22ffbb2cd769" />
